@@ -3,12 +3,12 @@
 
   # Provocateur
 
-  **7 AI agents that challenge every assumption in your code.**<br>
-  Before code review. Before merge. Before production.
+  **9 AI agents that challenge every assumption in your code and content.**<br>
+  Before code review. Before merge. Before production. Before publish.
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-orange?logo=anthropic&logoColor=white)](https://claude.ai/code)
-  [![Agents: 7](https://img.shields.io/badge/agents-7-red)]()
+  [![Agents: 9](https://img.shields.io/badge/agents-9-red)]()
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -16,9 +16,9 @@
 
 ## What is Provocateur?
 
-Provocateur is a [Claude Code](https://claude.ai/code) plugin that deploys seven specialized devil's advocate agents. Each agent assumes the code is **wrong until proven otherwise** — finding SOLID violations, security holes, N+1 queries, bad HTTP contracts, and flaky tests before they reach production.
+Provocateur is a [Claude Code](https://claude.ai/code) plugin that deploys nine specialized devil's advocate agents. Each agent assumes the code or content is **wrong until proven otherwise** — finding SOLID violations, security holes, N+1 queries, bad HTTP contracts, flaky tests, and performative LinkedIn posts before they reach production or your feed.
 
-Think of it as code review from a colleague who never pulls punches.
+Think of it as a colleague who never pulls punches — in code review or content review.
 
 ## Agents
 
@@ -31,6 +31,8 @@ Think of it as code review from a colleague who never pulls punches.
 | `devils-advocate-unit-tests` | PHPUnit compliance, coverage gaps, mock discipline | After writing unit tests |
 | `devils-advocate-feature-tests` | Integration patterns, Foundry, SchemaTool standards | Before closing a story |
 | `devils-advocate-static-analysis` | PHPStan level 9, PHP-CS-Fixer, type safety | As a pre-merge quality gate |
+| `devils-advocate-linkedin-post-reviewer-personal` | AI smell, theatre, substance, hook, voice | Before publishing a personal LinkedIn post |
+| `devils-advocate-linkedin-post-reviewer-brand` | AI smell, PR theatre, substance, brand voice, credibility | Before publishing a company LinkedIn post |
 
 ## Installation
 

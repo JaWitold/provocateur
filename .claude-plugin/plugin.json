@@ -1,7 +1,7 @@
 {
   "name": "provocateur",
-  "version": "1.0.0",
-  "description": "7 AI agents that challenge every assumption in your code. Covers SOLID, security, API design, performance, PHPUnit, and PHPStan.",
+  "version": "1.1.0",
+  "description": "9 AI agents that challenge every assumption in your code and content. Covers SOLID, security, API design, performance, PHPUnit, PHPStan, and LinkedIn post review.",
   "keywords": ["agents", "code-review", "security", "api-design", "performance", "testing", "critique", "php", "phpunit", "phpstan"],
   "homepage": "https://github.com/JaWitold/provocateur",
   "repository": "https://github.com/JaWitold/provocateur",

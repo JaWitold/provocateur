@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] — 2026-03-22
+
+### Added
+
+- `devils-advocate-linkedin-post-reviewer-personal` — AI smell detection, theatre audit, substance check, voice and hook critique for personal LinkedIn posts
+- `devils-advocate-linkedin-post-reviewer-brand` — AI smell detection, PR theatre audit, substance and credibility check, brand voice critique for company LinkedIn posts
+
 ## [1.0.0] — 2026-03-21
 
 ### Added
